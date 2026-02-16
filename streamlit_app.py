@@ -141,8 +141,9 @@ st.markdown("<div style='text-align: center;'>", unsafe_allow_html=True)
 st.write("נהניתם מהמחשבון? עזר לכם בשוק, במונית או במסעדה? 🍜🚕")
 
 # כאן תדביקי את הלינק שתקבלי מ-Buy Me a Coffee
-pay_link = "https://www.buymeacoffee.com/yourname" 
+pay_link = "https://www.buymeacoffee.com/dorithk" 
 
 st.markdown(f'<a href="{pay_link}" target="_blank" class="pay-btn">☕ פרגנו לי בקפה בווייטנאם (1$)</a>', unsafe_allow_html=True)
 st.markdown("<p style='margin-top:15px; font-size: 12px;'>פותח באהבה על ידי מטיילת עבור מטיילים</p>", unsafe_allow_html=True)
 st.markdown("</div>", unsafe_allow_html=True)
+
